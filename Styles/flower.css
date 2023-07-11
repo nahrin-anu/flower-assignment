@@ -112,3 +112,26 @@ small{
     font-weight: 600;
     margin-top: 100px;
 }
+.about-me{
+    padding: 130px;
+    border-radius: 10px;
+    background-color: cornsilk;
+    margin: 130px 0;
+}
+.about-title{
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400px;
+}
+.about-para{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 800px;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
