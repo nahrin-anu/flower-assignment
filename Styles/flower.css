@@ -1,0 +1,114 @@
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    background-color: cornsilk;
+    align-items: center;
+
+}
+
+.banner .flower-picture{
+    width: 500px;
+}
+
+/*main section style*/
+
+
+.hot-deal{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    background-color: lightsalmon;
+    align-items: center;
+
+}
+
+.hot-deal .flower-image {
+    width: 500px;
+}
+
+
+/*section 3*/
+.insta-com{
+        color: black;
+        text-align: center;
+        font-size: 40px;
+        font-weight: 800;
+        margin-top: 100px;
+}
+.insta-para{
+        color: black;
+        text-align: center;
+        font-size: 18px;
+        font-weight: 400;
+}
+.instagram-images {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 50px;
+}
+
+.background-img {
+   /* background-image: url('Flower Asset/Rectangle\ 9.png');*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 200px;
+    padding: 50px;
+}
+
+.form-input{
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+}
+.input-email{
+    padding: 17px;
+    width: 500px;
+    border: none;
+}
+.button-subscribe{
+    border-radius: 8px;
+    background-color: coral;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 32px 0px 0px 0px ;
+    padding: 15px 35px;
+}
+/*footer section*/
+footer{
+    text-align: center;
+}
+
+.f-bg-color{
+    background-color: black;
+    background-size: contain;
+    padding: 25px;
+    height: 300px;
+}
+.footer-head{
+    font-size: 48px;
+    font-weight: 800px;
+}
+#footer-1{
+    color: deeppink;
+}
+#footer-2{
+    color: white;
+}
+.f-para{
+    color: white;
+    font-size: 18px;
+    font-weight: 200px;
+}
+small{
+    color: white;
+    font-size: 12px;
+    font-weight: 400px;
+}
+.head-title{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
